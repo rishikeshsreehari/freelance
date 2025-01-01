@@ -5,6 +5,7 @@ A collection of essential resources for freelancers, including templates, tools,
 - [Templates](#templates)
 - [Tools](#tools)
 - [Jobs](#jobs)
+- [Resources](#resources)
 - [Contributing](#contributing)
 ---
 ## Templates
@@ -23,6 +24,10 @@ Looking for freelance opportunities? Check out these platforms:
 - [Fraction Works](https://fraction.works/): Platform for finding fractional jobs from Hacker News.
 - [Upwork](https://www.upwork.com/): Popular freelance marketplace.
 - [Freelancer](https://www.freelancer.com/): Another platform to find freelance gigs.
+---
+## Resources
+Helpful articles and guides for freelancers:
+- [How to Start Your Freelancing Career](https://saurabhgarg.com/how-to-start-your-freelancing-career-in-2023/): Comprehensive guide on beginning your freelance journey.
 ---
 ## Contributing
 Have a suggestion for a useful tool, template, or job platform that could benefit other freelancers? Feel free to create a Pull Request! Your contributions help make this toolkit more valuable for the freelance community.
