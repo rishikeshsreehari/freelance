@@ -1,12 +1,13 @@
 # DELIVERY ACCEPTANCE NOTE
 
-Reference: [Project Name]
-Contract Date: [DATE]
+Reference: [Project Name]  
+Contract Date: [DATE]  
 
 ## PROJECT DETAILS
-**Project:** [Brief Project Description]
-**Contractor:** [Contractor Name/Business] (License/Registration No.: [NUMBER])
-**Client:** [Client Name]
+**Project:** [Brief Project Description]  
+**Contractor:** [Contractor Name/Business]  
+(License/Registration No.: [NUMBER])  
+**Client:** [Client Name]  
 
 ## DELIVERABLES COMPLETED
 1. [Main Deliverable]
