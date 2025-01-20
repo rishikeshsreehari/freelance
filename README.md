@@ -12,6 +12,7 @@ A collection of essential resources for freelancers, including templates, tools,
 - [Contract Template](contract-template.md)
 - [Delivery Note Template](delivery-note-template.md)
 - [Invoice Template](invoice-template.md)
+- [Agreement Template](https://davesmyth.studio/agreement) by Dave Smyth Studio
 ---
 ## Tools
 Here are some useful tools for freelancers:
